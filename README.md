@@ -8,24 +8,49 @@
 The ultimate service for managing multi-channel notifications with a single API.
 </div>
 
-<h3>Your Topic</h3>
-<p>Description</p>
+<h1 align="center">Real-time web application for weather notification</h1>
+
+<h3>SentinelSky</h3>
+<p>SentinelSky is a real-time web application that sends an email notifcation containing surrounding weather report.</p>
 
 <h3>Technologies being used</h3>
-<p>NextJS / Python / Laravel / NestJS, anything you can to help us bring the right people to test the project</p>
-
-<h3>App Link</h3>
-<p>If there is</p>
+<p>NodeJS, ReactJS and MongoDB</p>
 
 <h3>Screenshoot</h3>
-<img width="1128" alt="image" src="https://user-images.githubusercontent.com/100117126/235352769-56544ab6-8b0d-47f9-8788-e363c692a594.png">
+
 
 <h3>Description</h3>
-<p>Explain what you have build in the most detailed way</p>
+<p>
+    Introducing SentinelSky: A Seamless Weather Information Experience
 
+Weather Report Notification is a cutting-edge project that revolutionizes the way users receive weather updates. By leveraging the power of React.js for the front end, Node.js for the backend, and MongoDB as the database, this project ensures a smooth and efficient delivery of personalized weather reports directly to users' email inboxes.
+
+The use of React.js enables us to create a sleek and intuitive user interface, providing an immersive experience for subscribers to manage their preferences effortlessly. The responsive design ensures seamless access across various devices, ensuring users can stay connected to weather updates anytime, anywhere.
+
+On the backend, Node.js serves as the robust foundation, allowing for efficient data processing and seamless communication between the frontend and the MongoDB database. The integration with MongoDB ensures secure storage of user preferences and historical weather data, enabling personalized and accurate reports.
+
+To provide reliable and hassle-free email notifications, Weather Report Notification leverages the Novu library, a powerful tool for seamless email service integration. Novu offers a comprehensive set of features, including email templating, scheduling, and delivery tracking, guaranteeing reliable and timely delivery of weather reports to subscribers.
+
+
+Key Features of Weather Report Notification:
+
+1. Intuitive user interface built with React.js for a seamless user experience.
+2. Efficient data processing and communication powered by Node.js.
+3. Secure storage and retrieval of user preferences and historical weather data using MongoDB.
+4. Reliable and timely email notifications facilitated by the Novu library.
+
+SentinelSky brings convenience, accuracy, and personalization to weather updates, empowering users to make informed decisions and stay one step ahead of changing weather conditions.</p>
 
 <h3>Who are you?</h3>
-<p>Give us your best description who are you, and why you have decided to build this project</p>
+<p>We are a group of 4 students currently pursuing bachelor's degree in Computer Engineering. Our names are:
+    
+   - Nikunj Navdiya
+   - Khushi vora
+   - Pooja Singh
+   - Kalpesh Patel
+<!-- Give us your best description who are you, and why you have decided to build this project</p> -->
 
 <h3>Additional Resources/Info</h3>
-<p>If you have</p>
+<p>We have used https://openweathermap.org/api for collection weather information. </p>
+
+
