@@ -105,10 +105,6 @@ router.post("/updateProfile", auth, async (req, res) => {
     const isMatch = await User.resetData(dataToUpdate, user);
     console.log(isMatch);
     if (isMatch) {
-      await novu.subscribers.update('111', {
-        email: user.email,
-        
-      });
       res.status(200).send("Data updated succesfully.");
     } else {
       res.status(404).send("Invalid Currunt Passuword");
