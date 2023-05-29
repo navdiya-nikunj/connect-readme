@@ -34,7 +34,7 @@ npm install
 -Head to frontend
 
 ```bash
-cd frontend
+cd client
 ```
 
 - Run the project using the following command:
@@ -46,7 +46,7 @@ npm start
 -Head to backend
 
 ```bash
-cd backend
+cd server
 ```
 
 - Install the dependencies using the following command:
