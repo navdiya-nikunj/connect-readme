@@ -102,8 +102,8 @@ async function weather(latitude, longitude) {
 
 };
 
-cron.schedule('42 16 * * *', () => {
-  // sendWeatherEmail();
+cron.schedule('0 7 * * *', () => {
+  sendWeatherEmail();    // it will send weather report everyday on 7 AM
 });
 
 
